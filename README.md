@@ -10,5 +10,5 @@ Recipes in the repo:
 
 \- Pork and sauerkraut (recipes/pork-and-sauerkraut.md)
 
-
+\- Apple Pie (recipes/apple-pie.md)
 

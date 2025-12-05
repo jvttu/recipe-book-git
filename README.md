@@ -4,7 +4,7 @@ This repo contains a small collection of grandmother's recipes used to study Git
 
 Recipes in the repo:
 
-\- Pancakes (recipes/pancakes.md)
+\- Grandmother's Pancakes (recipes/pancakes.md)
 
 \- Cutlets (recipes/cutlets.md)
 

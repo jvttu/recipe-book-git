@@ -9,4 +9,4 @@ Recipes in the repo:
 * Pork and sauerkraut (recipes/pork-and-sauerkraut.md)
 * Apple Pie (recipes/apple-pie.md)
 * Grandma's homemade chicken soup (recipes/chicken-soup.md)
-
+* Chocolate cake (recipes/chocolate-cake.md)
